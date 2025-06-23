@@ -1,6 +1,6 @@
 # Hi, my Name is Thiago Zierse.
 
-##  Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. I've a degree in systems analysis and development, i've experience with IT Infrastructure and Windows system support. 
+Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. I've a degree in systems analysis and development, i've experience with IT Infrastructure and Windows system support. 
 👨‍💻I'm currently learning Java, C# and Python and working on Robots of Competition.
 
 ## Contacts:
