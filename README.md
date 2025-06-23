@@ -1,4 +1,7 @@
-# Hi, my Name is Thiago Zierse.
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi, my Name is Thiago Zierse.;Second+line+of+text)](https://git.io/typing-svg)
+
+
 
 Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 
 I've a degree in systems analysis and development, experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
