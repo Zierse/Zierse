@@ -1,5 +1,7 @@
-#<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+Name+is+Thiago+Zierse." alt="Typing SVG" /></a>
-
+#
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+Name+is+Thiago+Zierse." alt="Typing SVG" /></a>
+</div>
 
 
 Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 
