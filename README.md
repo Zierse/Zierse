@@ -17,12 +17,12 @@ I've a degree in systems analysis and development, experience with IT Infrastruc
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-
-<div>
-<a href="https://github.com/Zierse">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zierse&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zierse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+<a href="https://github.com/zierse">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zierse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zierse&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
   
 ## 🤝 &nbsp; Connect with Me:
 <div>
