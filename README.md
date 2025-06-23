@@ -1,6 +1,6 @@
-# Hi, Welcome to my GitHub Profile 🤖 My Name is Thiago Zierse and my nickname is Zierse, i'm from Mato Grosso, Brazil. 
+# Hi, my Name is Thiago Zierse.
 
-## 👨‍💻I'm currently learning Java, C# and Python and working on Robots of Competition.
+##  Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 👨‍💻I'm currently learning Java, C# and Python and working on Robots of Competition.
 
 ## Contacts:
 <div>
