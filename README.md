@@ -1,7 +1,7 @@
 # Hi, my Name is Thiago Zierse.
 
 Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 
-I've a degree in systems analysis and development, i've experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
+I've a degree in systems analysis and development, experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
 
 
 ## Languages:
