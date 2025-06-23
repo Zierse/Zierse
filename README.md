@@ -5,7 +5,7 @@ I've a degree in systems analysis and development, i've experience with IT Infra
 
 ## Languages:
 <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/br.svg" width="32"></img> Brazilian Portuguese (Native) - Read, Write, Listen and Translate
-
+<img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/us.svg" width="32"></img> English (Basic) - Read and Write.
 ## Tech Stack: 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
