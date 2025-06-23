@@ -1,7 +1,8 @@
 # Hi, my Name is Thiago Zierse.
 
-Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil, 27 years old, married, I will help you with technology and innovative through my codes. 
-I've a degree in systems analysis and development, i've experience with IT Infrastructure and Windows system support.
+Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 
+I've a degree in systems analysis and development, i've experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
+
 
 ## Languages:
 - <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/br.svg" width="32"></img> Brazilian Portuguese (Native) - Read, Write, Listen and Translate
