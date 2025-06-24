@@ -4,8 +4,7 @@
 </div>
 
 
-Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil. 
-I've a degree in systems analysis and development, experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
+Welcome to my GitHub Profile, i'm from Mato Grosso, Brazil, degree in systems analysis and development, experience with IT Infrastructure and Windows system support and specialized with an MBA in Business Management. 
 
 
 ## Languages:
